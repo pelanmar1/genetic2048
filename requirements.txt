@@ -1,0 +1,5 @@
+numpy
+pandas
+pyautogui
+pillow
+pyobjc-framework-Quartz
