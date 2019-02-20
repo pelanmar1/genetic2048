@@ -1,5 +1,6 @@
 from random import shuffle, uniform, randint
-import game
+# import game
+import game_control as game
 import numpy as np
 import math
 import json
@@ -144,7 +145,6 @@ class Genetic2048:
                     self.evaluate_next_genome()
             else:
                     self.make_next_move()
-        # self.score = self.score
     
     def get_all_possible_moves(self):
         current_genome = self.population[self.current_genome]
@@ -385,7 +385,7 @@ class Genetic2048:
 
 
 def learn():
-    g = Genetic2048(move_limit=100, mutation_rate=0.05, mutation_step=0.2, num_generations=50, population_size=50, save_arch="arch3.json")
+    g = Genetic2048(move_limit=1000, mutation_rate=0.05, mutation_step=0.2, num_generations=50, population_size=50, save_arch="arch3.json")
     g.run()
 
 def keep_running(retries=0):
