@@ -46,8 +46,14 @@ getGrid = function () {
     return [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]];
 }
 getScore = function () {
-    strScore = JSON.parse(localStorage.gameState).score;
-    score = strScore;
+    var strScore = JSON.parse(localStorage.gameState).score;
+    var score = strScore;
     return score;
 }
 
+getBestScore = function(){
+    if(localStorage.hasOwnProperty("bestScore")){
+        return localStorage.bestScore;
+    }
+    return "0";
+}

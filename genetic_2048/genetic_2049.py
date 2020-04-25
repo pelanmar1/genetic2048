@@ -5,7 +5,6 @@ import math
 import json
 import time
 
-# Pedro Lanzagorta
 
 class Genetic2048:
     def __init__(self, move_limit=100, mutation_rate=0.015, mutation_step=1, num_generations=1000, population_size=10, save_arch="archive.json"):

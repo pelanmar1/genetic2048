@@ -1,0 +1,90 @@
+1557872826923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z8/s5d4_7f95t10jl1j8h3jjdfw0000gn/T/rust_mozprofile.Oqzilxs5GFni"
+1557872827335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557872827336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557872827336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557872828539	Marionette	INFO	Listening on port 52980
+1557872828586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557872884950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z8/s5d4_7f95t10jl1j8h3jjdfw0000gn/T/rust_mozprofile.sKZmCEugRg5K"
+1557872885388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557872885388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557872885388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557872886588	Marionette	INFO	Listening on port 53069
+1557872886602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557873019907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z8/s5d4_7f95t10jl1j8h3jjdfw0000gn/T/rust_mozprofile.QGi3LKvHINiz"
+1557873020324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557873020324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557873020324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557873021551	Marionette	INFO	Listening on port 53177
+1557873021656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 55ms)
+console.error: "TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5\n"
+TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5
+
+console.error: "TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5\n"
+TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5
+
+console.error: "TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5\n"
+TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5
+
+console.error: "TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5\n"
+TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5
+
+console.error: "TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5\n"
+TypeError: this.transport is null: send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_matchesChange@resource://devtools/server/actors/stylesheets.js:122:5
+
+1557873147205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z8/s5d4_7f95t10jl1j8h3jjdfw0000gn/T/rust_mozprofile.64nq7YKKv3N4"
+1557873147687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557873147687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557873147687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557873148864	Marionette	INFO	Listening on port 53263
+1557873148963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557873171773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z8/s5d4_7f95t10jl1j8h3jjdfw0000gn/T/rust_mozprofile.jYKK95rX5VSw"
+1557873172205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557873172205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557873172205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557873173413	Marionette	INFO	Listening on port 53351
+1557873173517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript error: https://sd.sharethis.com/loader.js, line 1: ReferenceError: isEsiLoaded is not defined
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 45ms)
+console.warn: "Failed to enumerate localStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate sessionStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+1557873338449	Marionette	INFO	Stopped listening on port 52980
+1557873344695	Marionette	INFO	Stopped listening on port 53069
+1557873346549	Marionette	INFO	Stopped listening on port 53177
+1557873349509	Marionette	INFO	Stopped listening on port 53263
+1557873352001	Marionette	INFO	Stopped listening on port 53351

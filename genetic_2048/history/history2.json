@@ -1,0 +1,2756 @@
+{
+    "population_size": 5,
+    "generation": 300,
+    "elites": [
+        {
+            "id": 0.7428580041593242,
+            "eccentricity": -0.927877563111982,
+            "avg_dist_between_largest": -0.1525004748964498,
+            "holes": 0.043621686638725565,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 1768
+        },
+        {
+            "id": 0.2687663662263028,
+            "eccentricity": -0.927877563111982,
+            "avg_dist_between_largest": -0.1525004748964498,
+            "holes": 0.043621686638725565,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 3788
+        },
+        {
+            "id": 0.1098520034031511,
+            "eccentricity": -0.5033840236850025,
+            "avg_dist_between_largest": -0.1525004748964498,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 3276
+        },
+        {
+            "id": 0.51552169774459,
+            "eccentricity": -0.5033840236850025,
+            "avg_dist_between_largest": -0.26281447655798423,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 6044
+        },
+        {
+            "id": 0.51552169774459,
+            "eccentricity": -0.5033840236850025,
+            "avg_dist_between_largest": -0.26281447655798423,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 5692
+        },
+        {
+            "id": 0.3810121023279498,
+            "eccentricity": -0.5033840236850025,
+            "avg_dist_between_largest": -0.17826048938012046,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.5590352342937932,
+            "points_earned": 0.5942895761785467,
+            "fitness": 6272
+        },
+        {
+            "id": 0.8338630878207306,
+            "eccentricity": -0.36470072529188147,
+            "avg_dist_between_largest": -0.2784329092616971,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.7703354028335011,
+            "fitness": 3792
+        },
+        {
+            "id": 0.2646417484419604,
+            "eccentricity": -0.36470072529188147,
+            "avg_dist_between_largest": -0.2784329092616971,
+            "holes": -0.3836995573859818,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 4928
+        },
+        {
+            "id": 0.31886108687027437,
+            "eccentricity": -0.36470072529188147,
+            "avg_dist_between_largest": -0.2784329092616971,
+            "holes": -0.22883934364623504,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 2008
+        },
+        {
+            "id": 0.01686326174409465,
+            "eccentricity": -0.36470072529188147,
+            "avg_dist_between_largest": -0.367043382881554,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 3648
+        },
+        {
+            "id": 0.017256845459835413,
+            "eccentricity": -0.2379647429997232,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 1388
+        },
+        {
+            "id": 0.9387484847945481,
+            "eccentricity": -0.2379647429997232,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 4296
+        },
+        {
+            "id": 0.09040291635746522,
+            "eccentricity": -0.2379647429997232,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 3760
+        },
+        {
+            "id": 0.28534705748608835,
+            "eccentricity": -0.2943582284247122,
+            "avg_dist_between_largest": -0.22866914492113088,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 3704
+        },
+        {
+            "id": 0.8805441742559099,
+            "eccentricity": -0.2379647429997232,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 8256
+        },
+        {
+            "id": 0.8805441742559099,
+            "eccentricity": -0.2379647429997232,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8622744927797773,
+            "fitness": 2772
+        },
+        {
+            "id": 0.5183140999912862,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.3203282932884622,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.8463971478361272,
+            "fitness": 3708
+        },
+        {
+            "id": 0.2922440239067483,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.9930962825592766,
+            "fitness": 2176
+        },
+        {
+            "id": 0.9039070082158096,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.9930962825592766,
+            "fitness": 5984
+        },
+        {
+            "id": 0.9039070082158096,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.25354428155284614,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.9930962825592766,
+            "fitness": 2780
+        },
+        {
+            "id": 0.2587157662398246,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.5031740692306497,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.9930962825592766,
+            "fitness": 2264
+        },
+        {
+            "id": 0.8578963003506233,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.094064891028241,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 1.2715432327453342,
+            "fitness": 3496
+        },
+        {
+            "id": 0.43492220666132164,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.34323445211327597,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 1.0151003806341352,
+            "fitness": 7784
+        },
+        {
+            "id": 0.43492220666132164,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.34323445211327597,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 1.0151003806341352,
+            "fitness": 6204
+        },
+        {
+            "id": 0.43492220666132164,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.34323445211327597,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 1.0151003806341352,
+            "fitness": 3692
+        },
+        {
+            "id": 0.20739334215938499,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 1.0151003806341352,
+            "fitness": 2300
+        },
+        {
+            "id": 0.7511015759892826,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.8018781737132588,
+            "points_earned": 0.7346797196828163,
+            "fitness": 2276
+        },
+        {
+            "id": 0.8715316311091328,
+            "eccentricity": 0.040049895366812596,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.5555048710238002,
+            "points_earned": 1.249527870120586,
+            "fitness": 5740
+        },
+        {
+            "id": 0.9627190650295178,
+            "eccentricity": -0.028943991796658505,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.5555048710238002,
+            "points_earned": 1.1351750485140657,
+            "fitness": 4176
+        },
+        {
+            "id": 0.9402964586280667,
+            "eccentricity": 0.040049895366812596,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.5555048710238002,
+            "points_earned": 1.4827428292012863,
+            "fitness": 2032
+        },
+        {
+            "id": 0.2834934341662132,
+            "eccentricity": 0.13041307542955455,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.6157317583438496,
+            "spaces_cleared": 0.5555048710238002,
+            "points_earned": 0.9673392668015055,
+            "fitness": 3484
+        },
+        {
+            "id": 0.640191488111172,
+            "eccentricity": 0.040049895366812596,
+            "avg_dist_between_largest": -0.07690847204527532,
+            "holes": -0.3638425496438436,
+            "spaces_cleared": 0.48504579709523904,
+            "points_earned": 1.4827428292012863,
+            "fitness": 3208
+        },
+        {
+            "id": 0.08657388565555835,
+            "eccentricity": 0.057044565660412036,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.5237229921836568,
+            "fitness": 2488
+        },
+        {
+            "id": 0.11773568167898041,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 4156
+        },
+        {
+            "id": 0.11773568167898041,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 6080
+        },
+        {
+            "id": 0.11773568167898041,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 1936
+        },
+        {
+            "id": 0.9605908804808014,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 4188
+        },
+        {
+            "id": 0.9605908804808014,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 3068
+        },
+        {
+            "id": 0.12593161705948175,
+            "eccentricity": 0.1828345493830864,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.27426716841010446,
+            "spaces_cleared": 0.7456451936860431,
+            "points_earned": 1.968628789069548,
+            "fitness": 3720
+        },
+        {
+            "id": 0.4929863205718491,
+            "eccentricity": 0.23673077360712924,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.968628789069548,
+            "fitness": 6156
+        },
+        {
+            "id": 0.4929863205718491,
+            "eccentricity": 0.23673077360712924,
+            "avg_dist_between_largest": -0.263537301176487,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.968628789069548,
+            "fitness": 836
+        },
+        {
+            "id": 0.7649740918739293,
+            "eccentricity": 0.4951896327272914,
+            "avg_dist_between_largest": -0.5563201521188251,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.968628789069548,
+            "fitness": 3464
+        },
+        {
+            "id": 0.013395410706303457,
+            "eccentricity": 0.3716568364990459,
+            "avg_dist_between_largest": -0.5563201521188251,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.7851865912548867,
+            "points_earned": 1.968628789069548,
+            "fitness": 3820
+        },
+        {
+            "id": 0.39286917448254244,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.7765181434216901,
+            "fitness": 7076
+        },
+        {
+            "id": 0.7339835285861147,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.7765181434216901,
+            "fitness": 3328
+        },
+        {
+            "id": 0.5938278957367527,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.7765181434216901,
+            "fitness": 3724
+        },
+        {
+            "id": 0.39904817095713707,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.47323137554344485,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.7765181434216901,
+            "fitness": 2604
+        },
+        {
+            "id": 0.35854019179478036,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.6460956269993239,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.6947176135709998,
+            "fitness": 4824
+        },
+        {
+            "id": 0.35854019179478036,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.6460956269993239,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.6947176135709998,
+            "fitness": 2200
+        },
+        {
+            "id": 0.8401846182093774,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.528233401584369,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.6947176135709998,
+            "fitness": 9068
+        },
+        {
+            "id": 0.8401846182093774,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.6199089393493153,
+            "holes": -0.528233401584369,
+            "spaces_cleared": 0.5967254887555642,
+            "points_earned": 1.6947176135709998,
+            "fitness": 5728
+        },
+        {
+            "id": 0.022976743058331417,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.47337588591154567,
+            "holes": -0.528233401584369,
+            "spaces_cleared": 0.40280697959296097,
+            "points_earned": 1.6947176135709998,
+            "fitness": 3904
+        },
+        {
+            "id": 0.022976743058331417,
+            "eccentricity": 0.3194501018517941,
+            "avg_dist_between_largest": -0.47337588591154567,
+            "holes": -0.528233401584369,
+            "spaces_cleared": 0.40280697959296097,
+            "points_earned": 1.6947176135709998,
+            "fitness": 1772
+        },
+        {
+            "id": 0.8248928513129635,
+            "eccentricity": 0.11469465941992912,
+            "avg_dist_between_largest": -0.2739726672334294,
+            "holes": -0.7133354178884916,
+            "spaces_cleared": 0.6949251630576535,
+            "points_earned": 1.6947176135709998,
+            "fitness": 3336
+        },
+        {
+            "id": 0.6692456832602088,
+            "eccentricity": 0.11469465941992912,
+            "avg_dist_between_largest": -0.7351675388673018,
+            "holes": -0.7838215492160622,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6947176135709998,
+            "fitness": 3012
+        },
+        {
+            "id": 0.8252317253061422,
+            "eccentricity": 0.11469465941992912,
+            "avg_dist_between_largest": -0.7351675388673018,
+            "holes": -0.7838215492160622,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6947176135709998,
+            "fitness": 3876
+        },
+        {
+            "id": 0.5585525262756088,
+            "eccentricity": 0.05038718976272903,
+            "avg_dist_between_largest": -0.7351675388673018,
+            "holes": -0.7013689590934047,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6667170321421407,
+            "fitness": 3188
+        },
+        {
+            "id": 0.18906865018259064,
+            "eccentricity": 0.05038718976272903,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7013689590934047,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6667170321421407,
+            "fitness": 1240
+        },
+        {
+            "id": 0.4216849292541692,
+            "eccentricity": 0.05038718976272903,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7013689590934047,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6667170321421407,
+            "fitness": 3872
+        },
+        {
+            "id": 0.30685841300219185,
+            "eccentricity": -0.12496865089119986,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7013689590934047,
+            "spaces_cleared": 0.5594808677894183,
+            "points_earned": 1.6667170321421407,
+            "fitness": 6172
+        },
+        {
+            "id": 0.3027304732899302,
+            "eccentricity": 0.062197701314543455,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7942457349767077,
+            "points_earned": 1.6667170321421407,
+            "fitness": 6156
+        },
+        {
+            "id": 0.21279298168538752,
+            "eccentricity": 0.17721123371423725,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.6704257603195043,
+            "fitness": 4440
+        },
+        {
+            "id": 0.21279298168538752,
+            "eccentricity": 0.17721123371423725,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.6704257603195043,
+            "fitness": 3024
+        },
+        {
+            "id": 0.5579166959604825,
+            "eccentricity": 0.17721123371423725,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.6704257603195043,
+            "fitness": 1348
+        },
+        {
+            "id": 0.7184772288311724,
+            "eccentricity": 0.10375883787533728,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.6704257603195043,
+            "fitness": 12128
+        },
+        {
+            "id": 0.7184772288311724,
+            "eccentricity": 0.10375883787533728,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.7681772238351628,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.6704257603195043,
+            "fitness": 1568
+        },
+        {
+            "id": 0.6194926237361054,
+            "eccentricity": 0.4290422326048196,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.6516014087904418,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.7264893455095245,
+            "fitness": 1820
+        },
+        {
+            "id": 0.8174632785790704,
+            "eccentricity": 0.10375883787533728,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.6516014087904418,
+            "spaces_cleared": 0.5507945485131724,
+            "points_earned": 1.7264893455095245,
+            "fitness": 868
+        },
+        {
+            "id": 0.769576539591174,
+            "eccentricity": 0.10375883787533728,
+            "avg_dist_between_largest": -0.879445017022544,
+            "holes": -0.864174046857871,
+            "spaces_cleared": 0.7984559915026688,
+            "points_earned": 1.7264893455095245,
+            "fitness": 4764
+        },
+        {
+            "id": 0.2513848596397371,
+            "eccentricity": -0.07025203538658571,
+            "avg_dist_between_largest": -1.1228179729071202,
+            "holes": -0.4740057667518752,
+            "spaces_cleared": 0.3658574263046581,
+            "points_earned": 1.7264893455095245,
+            "fitness": 3000
+        },
+        {
+            "id": 0.3212525171999533,
+            "eccentricity": 0.24072551660859148,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.4740057667518752,
+            "spaces_cleared": 0.3658574263046581,
+            "points_earned": 1.7264893455095245,
+            "fitness": 1848
+        },
+        {
+            "id": 0.05058141885415013,
+            "eccentricity": -0.08378239722584878,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.6516014087904418,
+            "spaces_cleared": 0.5343023255119138,
+            "points_earned": 1.7264893455095245,
+            "fitness": 3796
+        },
+        {
+            "id": 0.7142931434215654,
+            "eccentricity": -0.08378239722584878,
+            "avg_dist_between_largest": -0.9337243372025025,
+            "holes": -0.6516014087904418,
+            "spaces_cleared": 0.5343023255119138,
+            "points_earned": 1.7264893455095245,
+            "fitness": 1928
+        },
+        {
+            "id": 0.8683781613081705,
+            "eccentricity": -0.08378239722584878,
+            "avg_dist_between_largest": -0.7751174339051984,
+            "holes": -0.53377199776568,
+            "spaces_cleared": 0.3658574263046581,
+            "points_earned": 1.7264893455095245,
+            "fitness": 3592
+        },
+        {
+            "id": 0.2566320220927766,
+            "eccentricity": -0.08378239722584878,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.6516014087904418,
+            "spaces_cleared": 0.43542602314759826,
+            "points_earned": 1.7264893455095245,
+            "fitness": 3620
+        },
+        {
+            "id": 0.43474075298519643,
+            "eccentricity": -0.26025998628537317,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.43542602314759826,
+            "points_earned": 1.7264893455095245,
+            "fitness": 2688
+        },
+        {
+            "id": 0.9365568919343668,
+            "eccentricity": -0.26025998628537317,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.43542602314759826,
+            "points_earned": 1.7264893455095245,
+            "fitness": 4156
+        },
+        {
+            "id": 0.7877390789263023,
+            "eccentricity": -0.26025998628537317,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.4980106951131109,
+            "points_earned": 1.7264893455095245,
+            "fitness": 2816
+        },
+        {
+            "id": 0.16449795671603495,
+            "eccentricity": -0.26025998628537317,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.43542602314759826,
+            "points_earned": 1.7200952485013508,
+            "fitness": 3288
+        },
+        {
+            "id": 0.16946282336630691,
+            "eccentricity": -0.26025998628537317,
+            "avg_dist_between_largest": -0.8680365999087983,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.19132133484026523,
+            "points_earned": 1.7200952485013508,
+            "fitness": 2556
+        },
+        {
+            "id": 0.3910502739404058,
+            "eccentricity": 0.018038327404188537,
+            "avg_dist_between_largest": -0.6068305535515303,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.15316938350220022,
+            "points_earned": 1.7200952485013508,
+            "fitness": 2424
+        },
+        {
+            "id": 0.6968830701261045,
+            "eccentricity": 0.018038327404188537,
+            "avg_dist_between_largest": -0.6068305535515303,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.15316938350220022,
+            "points_earned": 1.6306174992314082,
+            "fitness": 1500
+        },
+        {
+            "id": 0.761149072470816,
+            "eccentricity": 0.16242955975733467,
+            "avg_dist_between_largest": -0.6068305535515303,
+            "holes": -0.7788346629329563,
+            "spaces_cleared": 0.19132133484026523,
+            "points_earned": 1.6191329827231074,
+            "fitness": 3188
+        },
+        {
+            "id": 0.04853517739553448,
+            "eccentricity": -0.0992866809239539,
+            "avg_dist_between_largest": -0.6068305535515303,
+            "holes": -0.49103396100552976,
+            "spaces_cleared": 0.19132133484026523,
+            "points_earned": 1.6306174992314082,
+            "fitness": 4044
+        },
+        {
+            "id": 0.26867114449710205,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.6068305535515303,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.19132133484026523,
+            "points_earned": 1.66596735663825,
+            "fitness": 4008
+        },
+        {
+            "id": 0.0037541233405684604,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 6440
+        },
+        {
+            "id": 0.2457108120232101,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 6072
+        },
+        {
+            "id": 0.2457108120232101,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 2648
+        },
+        {
+            "id": 0.15947121254016672,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 5236
+        },
+        {
+            "id": 0.09531038919936885,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.5676693918326647,
+            "fitness": 3328
+        },
+        {
+            "id": 0.38829070989386016,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 2196
+        },
+        {
+            "id": 0.19257672794373498,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.3865394855503839,
+            "fitness": 3292
+        },
+        {
+            "id": 0.14194137889115255,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.2309775253736324,
+            "fitness": 3108
+        },
+        {
+            "id": 0.8408646350916457,
+            "eccentricity": -0.40144615535921246,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.2309775253736324,
+            "fitness": 1008
+        },
+        {
+            "id": 0.5744592062227826,
+            "eccentricity": -0.2013702697665096,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.384668059502956,
+            "fitness": 1540
+        },
+        {
+            "id": 0.6001381694751889,
+            "eccentricity": -0.2013702697665096,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.384668059502956,
+            "fitness": 1608
+        },
+        {
+            "id": 0.8432170114496943,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.4651286935504306,
+            "points_earned": 1.384668059502956,
+            "fitness": 3816
+        },
+        {
+            "id": 0.04341660892904853,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.3458359327370267,
+            "holes": -0.6460161864226598,
+            "spaces_cleared": 0.43408217335608396,
+            "points_earned": 1.5251269956048807,
+            "fitness": 3500
+        },
+        {
+            "id": 0.7355797136421347,
+            "eccentricity": -0.302054875571356,
+            "avg_dist_between_largest": -0.5966628321151599,
+            "holes": -0.3465316502081628,
+            "spaces_cleared": 0.43408217335608396,
+            "points_earned": 1.0633564577011239,
+            "fitness": 3660
+        },
+        {
+            "id": 0.16455000846738355,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.23121755981258807,
+            "holes": -0.3773058854224169,
+            "spaces_cleared": 0.40585187902649994,
+            "points_earned": 1.339095908540291,
+            "fitness": 1616
+        },
+        {
+            "id": 0.2147623038018125,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.23121755981258807,
+            "holes": -0.6543204026333402,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.4894063633092838,
+            "fitness": 3812
+        },
+        {
+            "id": 0.49493393929893337,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.23121755981258807,
+            "holes": -0.6543204026333402,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.339095908540291,
+            "fitness": 3940
+        },
+        {
+            "id": 0.11213952029056073,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.23121755981258807,
+            "holes": -0.6543204026333402,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.339095908540291,
+            "fitness": 3864
+        },
+        {
+            "id": 0.1630785483514283,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.6543204026333402,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.339095908540291,
+            "fitness": 3856
+        },
+        {
+            "id": 0.5677806589922337,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.46671434374104137,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.339095908540291,
+            "fitness": 8932
+        },
+        {
+            "id": 0.5677806589922337,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.46671434374104137,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.339095908540291,
+            "fitness": 2572
+        },
+        {
+            "id": 0.8907471851952915,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.46671434374104137,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.3055852330518283,
+            "fitness": 6040
+        },
+        {
+            "id": 0.27437650254025925,
+            "eccentricity": -0.03337081104645773,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.701346732883823,
+            "spaces_cleared": 0.4270269840773977,
+            "points_earned": 1.3055852330518283,
+            "fitness": 3132
+        },
+        {
+            "id": 0.5916749780644397,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.37567061312433025,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.3134669082082497,
+            "fitness": 3708
+        },
+        {
+            "id": 0.5916749780644397,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.37567061312433025,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.3134669082082497,
+            "fitness": 8036
+        },
+        {
+            "id": 0.5916749780644397,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.37567061312433025,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.3134669082082497,
+            "fitness": 2732
+        },
+        {
+            "id": 0.4632863537748185,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.3134669082082497,
+            "fitness": 3800
+        },
+        {
+            "id": 0.7501871397492598,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.431181625159276,
+            "fitness": 6136
+        },
+        {
+            "id": 0.7501871397492598,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": -0.12144000349330748,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.431181625159276,
+            "fitness": 3456
+        },
+        {
+            "id": 0.43730317356777343,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.1769533098921041,
+            "fitness": 5040
+        },
+        {
+            "id": 0.9336423968093281,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.1769533098921041,
+            "fitness": 5400
+        },
+        {
+            "id": 0.9336423968093281,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.1769533098921041,
+            "fitness": 2184
+        },
+        {
+            "id": 0.16019656894915046,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.1769533098921041,
+            "fitness": 7232
+        },
+        {
+            "id": 0.16019656894915046,
+            "eccentricity": -0.22304362725785642,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.4364419982387998,
+            "points_earned": 1.1769533098921041,
+            "fitness": 2264
+        },
+        {
+            "id": 0.6351402145398827,
+            "eccentricity": -0.20111565669002504,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.34070573269454013,
+            "points_earned": 1.1769533098921041,
+            "fitness": 6432
+        },
+        {
+            "id": 0.38781781785721003,
+            "eccentricity": -0.04699465097514918,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.34070573269454013,
+            "points_earned": 1.1769533098921041,
+            "fitness": 1868
+        },
+        {
+            "id": 0.8124954561807325,
+            "eccentricity": -0.20111565669002504,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.6360044789635515,
+            "points_earned": 1.1769533098921041,
+            "fitness": 2544
+        },
+        {
+            "id": 0.7232522051739247,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.7919166949031624,
+            "points_earned": 1.4115943251263605,
+            "fitness": 4532
+        },
+        {
+            "id": 0.6826234716376585,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.05444409222713313,
+            "holes": -0.8077868717480333,
+            "spaces_cleared": 0.7919166949031624,
+            "points_earned": 1.4115943251263605,
+            "fitness": 5072
+        },
+        {
+            "id": 0.9903387601974464,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.0860671421246228,
+            "holes": -0.6818811433651555,
+            "spaces_cleared": 0.7919166949031624,
+            "points_earned": 1.4115943251263605,
+            "fitness": 1688
+        },
+        {
+            "id": 0.5981799997330642,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.0860671421246228,
+            "holes": -0.6818811433651555,
+            "spaces_cleared": 0.7919166949031624,
+            "points_earned": 1.4115943251263605,
+            "fitness": 3672
+        },
+        {
+            "id": 0.33410621960493525,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.0860671421246228,
+            "holes": -0.6818811433651555,
+            "spaces_cleared": 0.5268644742223796,
+            "points_earned": 1.4115943251263605,
+            "fitness": 4744
+        },
+        {
+            "id": 0.2649310240066417,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.1520930526847925,
+            "holes": -0.8163858745263807,
+            "spaces_cleared": 0.7919166949031624,
+            "points_earned": 1.4115943251263605,
+            "fitness": 7540
+        },
+        {
+            "id": 0.6203127475871455,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.1520930526847925,
+            "holes": -0.8163858745263807,
+            "spaces_cleared": 1.0843627324568668,
+            "points_earned": 1.4115943251263605,
+            "fitness": 2192
+        },
+        {
+            "id": 0.14588665896543385,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.052414174840700226,
+            "holes": -0.8789910002987125,
+            "spaces_cleared": 1.0843627324568668,
+            "points_earned": 1.4115943251263605,
+            "fitness": 6504
+        },
+        {
+            "id": 0.6776559639490698,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.052414174840700226,
+            "holes": -0.8163858745263807,
+            "spaces_cleared": 1.0843627324568668,
+            "points_earned": 1.4115943251263605,
+            "fitness": 3340
+        },
+        {
+            "id": 0.14578368709325262,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.052414174840700226,
+            "holes": -0.8789910002987125,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4115943251263605,
+            "fitness": 1952
+        },
+        {
+            "id": 0.26510244811338124,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.10004601857549147,
+            "holes": -0.9374991584548625,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4115943251263605,
+            "fitness": 1916
+        },
+        {
+            "id": 0.5360808998599854,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.10004601857549147,
+            "holes": -0.8789910002987125,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.3110571623475482,
+            "fitness": 2396
+        },
+        {
+            "id": 0.7747370492088671,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.10004601857549147,
+            "holes": -0.9374991584548625,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4115943251263605,
+            "fitness": 2020
+        },
+        {
+            "id": 0.7839807291511987,
+            "eccentricity": -0.04764561425358613,
+            "avg_dist_between_largest": 0.10004601857549147,
+            "holes": -0.9311439672158769,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4115943251263605,
+            "fitness": 2672
+        },
+        {
+            "id": 0.6176850982054573,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.27353213744977334,
+            "holes": -1.012934716739299,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4120956469187362,
+            "fitness": 3720
+        },
+        {
+            "id": 0.6557109017835806,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.37723216926955994,
+            "holes": -0.9311439672158769,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.4115943251263605,
+            "fitness": 2816
+        },
+        {
+            "id": 0.1285920750794909,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.27353213744977334,
+            "holes": -1.012934716739299,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 3456
+        },
+        {
+            "id": 0.15140364614205792,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.27353213744977334,
+            "holes": -1.012934716739299,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1424
+        },
+        {
+            "id": 0.27079501129795186,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.27353213744977334,
+            "holes": -1.012934716739299,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 2300
+        },
+        {
+            "id": 0.3767301831025336,
+            "eccentricity": -0.22799804551412112,
+            "avg_dist_between_largest": 0.27353213744977334,
+            "holes": -1.012934716739299,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 0.9057012833457511,
+            "fitness": 1836
+        },
+        {
+            "id": 0.47072627343970086,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.29896083390212524,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 6260
+        },
+        {
+            "id": 0.47072627343970086,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.29896083390212524,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 3352
+        },
+        {
+            "id": 0.47072627343970086,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.29896083390212524,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 7340
+        },
+        {
+            "id": 0.4948962381785592,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.3379155270106217,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 5272
+        },
+        {
+            "id": 0.9293818935464762,
+            "eccentricity": -0.09251903252030133,
+            "avg_dist_between_largest": 0.29896083390212524,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 2720
+        },
+        {
+            "id": 0.661197246679742,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.332788190601122,
+            "holes": -0.7641616192557761,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1720
+        },
+        {
+            "id": 0.9813999185532583,
+            "eccentricity": 0.01933287426434878,
+            "avg_dist_between_largest": 0.332788190601122,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1608
+        },
+        {
+            "id": 0.9282417716813346,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.5482214819807243,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1344
+        },
+        {
+            "id": 0.665495533661993,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.21811049175113023,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1632
+        },
+        {
+            "id": 0.537464417555434,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 1.0393500381210012,
+            "points_earned": 1.1948176768640482,
+            "fitness": 1604
+        },
+        {
+            "id": 0.9116232781796976,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 2728
+        },
+        {
+            "id": 0.815710126414539,
+            "eccentricity": 0.05475364322981524,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.4706937378345645,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 5752
+        },
+        {
+            "id": 0.5199333462719832,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 4268
+        },
+        {
+            "id": 0.5199333462719832,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.1948176768640482,
+            "fitness": 3580
+        },
+        {
+            "id": 0.11338054986381252,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": -0.006997454809099912,
+            "holes": -0.7107449947676694,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.3001504815962277,
+            "fitness": 2880
+        },
+        {
+            "id": 0.3597408781511462,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.7339569172896421,
+            "spaces_cleared": 0.7423908580574269,
+            "points_earned": 1.4835665452223923,
+            "fitness": 2800
+        },
+        {
+            "id": 0.80557462586877,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.3138815871414469,
+            "fitness": 3608
+        },
+        {
+            "id": 0.16038881396227023,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.12232615837226772,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 0.9118408791753233,
+            "points_earned": 1.3138815871414469,
+            "fitness": 6148
+        },
+        {
+            "id": 0.4020954277334641,
+            "eccentricity": 0.24996714835413691,
+            "avg_dist_between_largest": 0.056231142525794114,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.1400248519947018,
+            "points_earned": 1.3138815871414469,
+            "fitness": 3220
+        },
+        {
+            "id": 0.06262812788354044,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.12232615837226772,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.1400248519947018,
+            "points_earned": 1.3138815871414469,
+            "fitness": 1936
+        },
+        {
+            "id": 0.5845836409507684,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.2420951859181425,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 0.9335780723462402,
+            "points_earned": 1.3138815871414469,
+            "fitness": 1804
+        },
+        {
+            "id": 0.8429225166192803,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.4125517362361699,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 0.8794302088811498,
+            "points_earned": 1.3138815871414469,
+            "fitness": 3120
+        },
+        {
+            "id": 0.5566613538311603,
+            "eccentricity": 0.09114281759254095,
+            "avg_dist_between_largest": 0.2420951859181425,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 0.9335780723462402,
+            "points_earned": 1.4665319360666347,
+            "fitness": 1244
+        },
+        {
+            "id": 0.09946715527277361,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.3138815871414469,
+            "fitness": 5648
+        },
+        {
+            "id": 0.09946715527277361,
+            "eccentricity": 0.04357532636210401,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.3138815871414469,
+            "fitness": 4192
+        },
+        {
+            "id": 0.7619174791152267,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.319325393147159,
+            "fitness": 6040
+        },
+        {
+            "id": 0.7619174791152267,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.574244157424922,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.319325393147159,
+            "fitness": 3328
+        },
+        {
+            "id": 0.6009364289630154,
+            "eccentricity": 0.4634029865048995,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.7326943056718513,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.319325393147159,
+            "fitness": 4760
+        },
+        {
+            "id": 0.6009364289630154,
+            "eccentricity": 0.4634029865048995,
+            "avg_dist_between_largest": 0.11364559485054654,
+            "holes": -0.7326943056718513,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.319325393147159,
+            "fitness": 1048
+        },
+        {
+            "id": 0.6081903015835678,
+            "eccentricity": 0.4634029865048995,
+            "avg_dist_between_largest": 0.26294962227456004,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.319325393147159,
+            "fitness": 1980
+        },
+        {
+            "id": 0.3784767897615965,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.26294962227456004,
+            "holes": -0.6341729787150995,
+            "spaces_cleared": 1.1059735369622454,
+            "points_earned": 1.2180286799546665,
+            "fitness": 2016
+        },
+        {
+            "id": 0.28905198267472243,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.6341729787150995,
+            "spaces_cleared": 1.0391813475889464,
+            "points_earned": 1.2799441913629757,
+            "fitness": 1876
+        },
+        {
+            "id": 0.7901093408998995,
+            "eccentricity": 0.4634029865048995,
+            "avg_dist_between_largest": -0.08892450830077234,
+            "holes": -0.5950710989597066,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.5475855465275774,
+            "fitness": 3160
+        },
+        {
+            "id": 0.36504460587909093,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.5475855465275774,
+            "fitness": 4212
+        },
+        {
+            "id": 0.3245772716516897,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.5475855465275774,
+            "fitness": 5176
+        },
+        {
+            "id": 0.03913585980302137,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 1.0020802497846977,
+            "points_earned": 1.5475855465275774,
+            "fitness": 472
+        },
+        {
+            "id": 0.36720719172686156,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.5475855465275774,
+            "fitness": 3912
+        },
+        {
+            "id": 1.0850313967073386,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.11494897316824074,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 1.066038291927876,
+            "points_earned": 1.3608845702957482,
+            "fitness": 1624
+        },
+        {
+            "id": 0.7830546136571658,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.6759826826442096,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.545475176157364,
+            "fitness": 3620
+        },
+        {
+            "id": 0.7350055595871049,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.8316008800609863,
+            "spaces_cleared": 0.9601799996532612,
+            "points_earned": 1.545475176157364,
+            "fitness": 3600
+        },
+        {
+            "id": 0.5876544000562155,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.4752523498513157,
+            "fitness": 3636
+        },
+        {
+            "id": 0.7442169730104524,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": 0.14357929238926567,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.4752523498513157,
+            "fitness": 4024
+        },
+        {
+            "id": 0.32667944819806294,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.7162872891237047,
+            "points_earned": 1.7968776861550344,
+            "fitness": 1532
+        },
+        {
+            "id": 0.840282317004391,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 3088
+        },
+        {
+            "id": 0.14977294296631138,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 4088
+        },
+        {
+            "id": 0.16861424182771678,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 2320
+        },
+        {
+            "id": 0.49945390047800964,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.49406504427825426,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 3464
+        },
+        {
+            "id": 0.39187514037605387,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.34755840210388367,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 3136
+        },
+        {
+            "id": 0.943571394114581,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.34755840210388367,
+            "spaces_cleared": 0.8367187851304481,
+            "points_earned": 1.6533218113453358,
+            "fitness": 2436
+        },
+        {
+            "id": 0.15543132171751672,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.34755840210388367,
+            "spaces_cleared": 0.566050077476359,
+            "points_earned": 1.6533218113453358,
+            "fitness": 3848
+        },
+        {
+            "id": 0.15543132171751672,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.34755840210388367,
+            "spaces_cleared": 0.566050077476359,
+            "points_earned": 1.6533218113453358,
+            "fitness": 4540
+        },
+        {
+            "id": 0.011001365171564137,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.28255026424385793,
+            "spaces_cleared": 0.566050077476359,
+            "points_earned": 1.6533218113453358,
+            "fitness": 2188
+        },
+        {
+            "id": 0.3025447035584611,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.34755840210388367,
+            "spaces_cleared": 0.566050077476359,
+            "points_earned": 1.6533218113453358,
+            "fitness": 1768
+        },
+        {
+            "id": 0.4776960783065365,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5841107863010833,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 3476
+        },
+        {
+            "id": 0.19141517806638098,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5841107863010833,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 3776
+        },
+        {
+            "id": 0.48458587794712804,
+            "eccentricity": 0.23899932357143894,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.7905125497583971,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 2304
+        },
+        {
+            "id": 0.9562356374925001,
+            "eccentricity": 0.11978684956878334,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 3012
+        },
+        {
+            "id": 1.0982373262587684,
+            "eccentricity": 0.11978684956878334,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 3768
+        },
+        {
+            "id": 0.34894307966135973,
+            "eccentricity": 0.11978684956878334,
+            "avg_dist_between_largest": -0.04125184531098136,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.7196583229106623,
+            "fitness": 4008
+        },
+        {
+            "id": 0.8442341677098568,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5894739379304876,
+            "points_earned": 1.4739896736541103,
+            "fitness": 1812
+        },
+        {
+            "id": 0.28175557300500653,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.4739896736541103,
+            "fitness": 1904
+        },
+        {
+            "id": 0.5674856184777888,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.5407554877476702,
+            "points_earned": 1.4739896736541103,
+            "fitness": 3240
+        },
+        {
+            "id": 0.9069451935803201,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.2558975095595285,
+            "points_earned": 1.4739896736541103,
+            "fitness": 3104
+        },
+        {
+            "id": 0.8934800119183398,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.2558975095595285,
+            "points_earned": 1.6218302572807197,
+            "fitness": 6508
+        },
+        {
+            "id": 0.8934800119183398,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.13450964363959747,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.2558975095595285,
+            "points_earned": 1.6218302572807197,
+            "fitness": 1700
+        },
+        {
+            "id": 0.7044796807012577,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.34357963215211546,
+            "holes": -0.5118297341644422,
+            "spaces_cleared": 0.2558975095595285,
+            "points_earned": 1.729060236860191,
+            "fitness": 2676
+        },
+        {
+            "id": 0.5416428007593498,
+            "eccentricity": 0.15516111054065562,
+            "avg_dist_between_largest": -0.5174062221293456,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.729060236860191,
+            "fitness": 3784
+        },
+        {
+            "id": 0.4440897322674108,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.34357963215211546,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.020954023376849013,
+            "points_earned": 1.729060236860191,
+            "fitness": 4004
+        },
+        {
+            "id": 0.46799250953071203,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.34357963215211546,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.4429782689731174,
+            "fitness": 3912
+        },
+        {
+            "id": 0.9644354654760526,
+            "eccentricity": -0.12668148441222338,
+            "avg_dist_between_largest": -0.14438768026488163,
+            "holes": -0.8705013234226785,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.4429782689731174,
+            "fitness": 7384
+        },
+        {
+            "id": 0.5526989505474339,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.34357963215211546,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.4429782689731174,
+            "fitness": 5628
+        },
+        {
+            "id": 0.5526989505474339,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.34357963215211546,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.4429782689731174,
+            "fitness": 5452
+        },
+        {
+            "id": 0.16671046320366723,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.6014636119086031,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": 0.139724956149354,
+            "points_earned": 1.6022400657341265,
+            "fitness": 3828
+        },
+        {
+            "id": 0.6096377882415638,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.8114485657638179,
+            "holes": -0.5629813230970583,
+            "spaces_cleared": 0.3189722585522329,
+            "points_earned": 1.6022400657341265,
+            "fitness": 4180
+        },
+        {
+            "id": 0.1658292670478626,
+            "eccentricity": -0.05505605899103597,
+            "avg_dist_between_largest": -0.3249814385071756,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": -0.1214243857797748,
+            "points_earned": 1.4709125568571142,
+            "fitness": 3148
+        },
+        {
+            "id": 0.9546005100081724,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.8114485657638179,
+            "holes": -0.5629813230970583,
+            "spaces_cleared": 0.3189722585522329,
+            "points_earned": 1.4709125568571142,
+            "fitness": 2304
+        },
+        {
+            "id": 0.494913517565939,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.8114485657638179,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": -0.0324461851813712,
+            "points_earned": 1.7582837250381314,
+            "fitness": 2420
+        },
+        {
+            "id": 0.735068403080389,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.8114485657638179,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": -0.1214243857797748,
+            "points_earned": 1.7582837250381314,
+            "fitness": 1580
+        },
+        {
+            "id": 0.9677055004869756,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.6202300247437744,
+            "spaces_cleared": -0.1214243857797748,
+            "points_earned": 1.9599903412069755,
+            "fitness": 3464
+        },
+        {
+            "id": 0.760815302960114,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.49146907676463397,
+            "spaces_cleared": -0.1214243857797748,
+            "points_earned": 2.2023911235432254,
+            "fitness": 5148
+        },
+        {
+            "id": 0.5757930660938053,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.6717474919266583,
+            "spaces_cleared": -0.1214243857797748,
+            "points_earned": 1.6788280035540646,
+            "fitness": 1676
+        },
+        {
+            "id": 0.5349755204784528,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.09831819413615434,
+            "points_earned": 2.2023911235432254,
+            "fitness": 4016
+        },
+        {
+            "id": 0.2252553830334425,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.09831819413615434,
+            "points_earned": 2.2023911235432254,
+            "fitness": 3972
+        },
+        {
+            "id": 0.17864977455055697,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.7605986154026159,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.2023911235432254,
+            "fitness": 3344
+        },
+        {
+            "id": 0.35845627210689135,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.66209217377229,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.09831819413615434,
+            "points_earned": 2.416315372565608,
+            "fitness": 2036
+        },
+        {
+            "id": 0.24253258767912178,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.7605986154026159,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.2023911235432254,
+            "fitness": 3948
+        },
+        {
+            "id": 0.26969464630999107,
+            "eccentricity": -0.04531484467957665,
+            "avg_dist_between_largest": -0.7605986154026159,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 1.9082019892759459,
+            "fitness": 1936
+        },
+        {
+            "id": 0.711254744963674,
+            "eccentricity": 0.09389523783787042,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.416315372565608,
+            "fitness": 10464
+        },
+        {
+            "id": 0.711254744963674,
+            "eccentricity": 0.09389523783787042,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.416315372565608,
+            "fitness": 7484
+        },
+        {
+            "id": 0.2886619638937521,
+            "eccentricity": 0.09389523783787042,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.416315372565608,
+            "fitness": 1384
+        },
+        {
+            "id": 0.33711936106429663,
+            "eccentricity": 0.06045423613336723,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.416315372565608,
+            "fitness": 14544
+        },
+        {
+            "id": 0.33711936106429663,
+            "eccentricity": 0.06045423613336723,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": 0.014133343280576596,
+            "points_earned": 2.416315372565608,
+            "fitness": 3840
+        },
+        {
+            "id": 0.3347715379202857,
+            "eccentricity": 0.06045423613336723,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": -0.06839612103041942,
+            "points_earned": 2.416315372565608,
+            "fitness": 6820
+        },
+        {
+            "id": -0.08796494665823151,
+            "eccentricity": 0.06045423613336723,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.6263589987453014,
+            "spaces_cleared": -0.06839612103041942,
+            "points_earned": 2.416315372565608,
+            "fitness": 1740
+        },
+        {
+            "id": 0.8572743379872321,
+            "eccentricity": 0.06045423613336723,
+            "avg_dist_between_largest": -0.9215985244262446,
+            "holes": -0.7242019107940246,
+            "spaces_cleared": -0.06839612103041942,
+            "points_earned": 2.416315372565608,
+            "fitness": 1852
+        },
+        {
+            "id": 0.10773299187950258,
+            "eccentricity": -0.16580901137478962,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.45208221693413286,
+            "spaces_cleared": -0.13510274548106896,
+            "points_earned": 2.269663619719619,
+            "fitness": 6624
+        },
+        {
+            "id": 0.10773299187950258,
+            "eccentricity": -0.16580901137478962,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.45208221693413286,
+            "spaces_cleared": -0.13510274548106896,
+            "points_earned": 2.269663619719619,
+            "fitness": 2072
+        },
+        {
+            "id": 0.7251804024799309,
+            "eccentricity": -0.16580901137478962,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.45208221693413286,
+            "spaces_cleared": -0.13510274548106896,
+            "points_earned": 2.269663619719619,
+            "fitness": 1200
+        },
+        {
+            "id": 0.40301834044416995,
+            "eccentricity": -0.4087074231686435,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.45208221693413286,
+            "spaces_cleared": -0.20048840114536726,
+            "points_earned": 2.269663619719619,
+            "fitness": 2724
+        },
+        {
+            "id": 0.15892836532313748,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.44568982237321125,
+            "spaces_cleared": -0.13510274548106896,
+            "points_earned": 2.269663619719619,
+            "fitness": 2548
+        },
+        {
+            "id": 0.48699121078279417,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.3040094656442679,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.269663619719619,
+            "fitness": 3608
+        },
+        {
+            "id": -0.05012808620262704,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.1637279488773175,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.511376515326665,
+            "fitness": 2892
+        },
+        {
+            "id": 0.0947376877762538,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.1637279488773175,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.511376515326665,
+            "fitness": 4536
+        },
+        {
+            "id": 0.4113933216790373,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.1637279488773175,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.580794411364679,
+            "fitness": 1336
+        },
+        {
+            "id": 1.1816204933618752,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.2057612336959721,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.511376515326665,
+            "fitness": 1380
+        },
+        {
+            "id": 0.7873093511231958,
+            "eccentricity": -0.4254773636351439,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.511376515326665,
+            "fitness": 5784
+        },
+        {
+            "id": 0.22782571380789973,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.6079167773598964,
+            "fitness": 7420
+        },
+        {
+            "id": 0.22782571380789973,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.6079167773598964,
+            "fitness": 4904
+        },
+        {
+            "id": 0.48882410571823653,
+            "eccentricity": -0.4135490689657364,
+            "avg_dist_between_largest": -0.9271520759663053,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.3929300619451499,
+            "points_earned": 2.6079167773598964,
+            "fitness": 3704
+        },
+        {
+            "id": 0.4135987136148799,
+            "eccentricity": -0.4135490689657364,
+            "avg_dist_between_largest": -1.1156865592622733,
+            "holes": -0.43695793362067237,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.6079167773598964,
+            "fitness": 3456
+        },
+        {
+            "id": 0.35162518645910845,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -0.8389321245207199,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.4921414732720777,
+            "fitness": 3496
+        },
+        {
+            "id": 0.053636033017049445,
+            "eccentricity": -0.4135490689657364,
+            "avg_dist_between_largest": -0.8389321245207199,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.4921414732720777,
+            "fitness": 4452
+        },
+        {
+            "id": 0.5815676302290917,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -1.1115113860903314,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.319987231988646,
+            "fitness": 5468
+        },
+        {
+            "id": 0.7391073708440605,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -1.1115113860903314,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.319987231988646,
+            "fitness": 6300
+        },
+        {
+            "id": 0.7391073708440605,
+            "eccentricity": -0.7082446483219771,
+            "avg_dist_between_largest": -1.1115113860903314,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.319987231988646,
+            "fitness": 3420
+        },
+        {
+            "id": 0.6153671407069659,
+            "eccentricity": -0.5658787442095046,
+            "avg_dist_between_largest": -1.0277057258207076,
+            "holes": -0.3473023173288942,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.529985516066533,
+            "fitness": 3772
+        },
+        {
+            "id": 0.0036232026023529373,
+            "eccentricity": -0.5658787442095046,
+            "avg_dist_between_largest": -1.0277057258207076,
+            "holes": -0.3295252995131061,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.5948646524079675,
+            "fitness": 8316
+        },
+        {
+            "id": 0.0036232026023529373,
+            "eccentricity": -0.5658787442095046,
+            "avg_dist_between_largest": -1.0277057258207076,
+            "holes": -0.3295252995131061,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.5948646524079675,
+            "fitness": 6180
+        },
+        {
+            "id": 0.0036232026023529373,
+            "eccentricity": -0.5658787442095046,
+            "avg_dist_between_largest": -1.0277057258207076,
+            "holes": -0.3295252995131061,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.5948646524079675,
+            "fitness": 1932
+        },
+        {
+            "id": 0.4541217802027516,
+            "eccentricity": -0.6059408406559048,
+            "avg_dist_between_largest": -0.7306780560206414,
+            "holes": -0.5723492719790975,
+            "spaces_cleared": -0.24031745689665288,
+            "points_earned": 2.5948646524079675,
+            "fitness": 1760
+        },
+        {
+            "id": 0.1262133570247248,
+            "eccentricity": -0.577287701153352,
+            "avg_dist_between_largest": -0.8490157052565686,
+            "holes": -0.3160007400435005,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3428
+        },
+        {
+            "id": 0.12587241934743587,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.7306780560206414,
+            "holes": -0.33348345306542576,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3880
+        },
+        {
+            "id": 0.10605396963728808,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.7306780560206414,
+            "holes": -0.33348345306542576,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 1504
+        },
+        {
+            "id": 0.8662382707314136,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.7306780560206414,
+            "holes": -0.30879239711200585,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 2160
+        },
+        {
+            "id": 0.2773533164857876,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.8513502562980402,
+            "holes": -0.33348345306542576,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3272
+        },
+        {
+            "id": 0.22812518986813324,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.5551398035835113,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 7060
+        },
+        {
+            "id": 0.22812518986813324,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.5551398035835113,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 4296
+        },
+        {
+            "id": 0.29157728450428577,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.8513502562980402,
+            "holes": -0.30879239711200585,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.3377336200198995,
+            "fitness": 1836
+        },
+        {
+            "id": 0.9658711435926648,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.6404064965241009,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 6888
+        },
+        {
+            "id": 0.9658711435926648,
+            "eccentricity": -0.5111121735674644,
+            "avg_dist_between_largest": -0.6404064965241009,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 4016
+        },
+        {
+            "id": 0.8539164986215751,
+            "eccentricity": -0.6154418173494013,
+            "avg_dist_between_largest": -0.6404064965241009,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 2836
+        },
+        {
+            "id": 0.3683595291168077,
+            "eccentricity": -0.6154418173494013,
+            "avg_dist_between_largest": -0.783664269857882,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 1632
+        },
+        {
+            "id": 0.8061530960350377,
+            "eccentricity": -0.6154418173494013,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 6256
+        },
+        {
+            "id": 0.8529920578540471,
+            "eccentricity": -0.6154418173494013,
+            "avg_dist_between_largest": -0.783664269857882,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.6725775260450602,
+            "points_earned": 2.7655080055499393,
+            "fitness": 4084
+        },
+        {
+            "id": 0.45610043767616404,
+            "eccentricity": -0.6154418173494013,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.2544136598169408,
+            "spaces_cleared": -0.23610512016840043,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3824
+        },
+        {
+            "id": 0.4397455253642307,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.13625069681919327,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3576
+        },
+        {
+            "id": 0.6252446856853523,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.13625069681919327,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3612
+        },
+        {
+            "id": 0.48616439454983806,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.13625069681919327,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.5948646524079675,
+            "fitness": 3884
+        },
+        {
+            "id": 0.45800370114929867,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.13625069681919327,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8819252029706024,
+            "fitness": 4540
+        },
+        {
+            "id": 0.3114976804336126,
+            "eccentricity": -1.0657633312790709,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.13625069681919327,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.7973370100377086,
+            "fitness": 2172
+        },
+        {
+            "id": 0.7794142048104025,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8819252029706024,
+            "fitness": 2748
+        },
+        {
+            "id": 0.5310070939509502,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.6503836511410173,
+            "fitness": 7284
+        },
+        {
+            "id": 0.5310070939509502,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.6503836511410173,
+            "fitness": 4052
+        },
+        {
+            "id": 0.5310070939509502,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.6503836511410173,
+            "fitness": 2412
+        },
+        {
+            "id": 0.24630367946100581,
+            "eccentricity": -0.790515748607278,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8780437285441454,
+            "fitness": 5292
+        },
+        {
+            "id": 0.6934805764826284,
+            "eccentricity": -0.8570977355942242,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8780437285441454,
+            "fitness": 2820
+        },
+        {
+            "id": 0.48703979902419947,
+            "eccentricity": -0.8570977355942242,
+            "avg_dist_between_largest": -0.7703808445486864,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8780437285441454,
+            "fitness": 1576
+        },
+        {
+            "id": 0.14513102580012227,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8780437285441454,
+            "fitness": 7564
+        },
+        {
+            "id": 0.14513102580012227,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8780437285441454,
+            "fitness": 4676
+        },
+        {
+            "id": 0.29433547171333463,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 3356
+        },
+        {
+            "id": 0.44376103642149745,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 6836
+        },
+        {
+            "id": 0.9997963577159478,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 6092
+        },
+        {
+            "id": 0.26694158535632717,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 8168
+        },
+        {
+            "id": 0.26694158535632717,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 6112
+        },
+        {
+            "id": 0.0246519439111057,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.506312459426353,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 1880
+        },
+        {
+            "id": 0.03248079835723461,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.815883220486349,
+            "fitness": 3152
+        },
+        {
+            "id": 0.2732655251486307,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.4965766833904761,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.602479458830149,
+            "fitness": 2340
+        },
+        {
+            "id": 0.46641684306125364,
+            "eccentricity": -0.354444144280001,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": -0.00444584066116574,
+            "points_earned": 2.815883220486349,
+            "fitness": 3768
+        }
+    ],
+    "population": [
+        {
+            "id": 0.46641684306125364,
+            "eccentricity": -0.354444144280001,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": -0.00444584066116574,
+            "points_earned": 2.815883220486349,
+            "fitness": 3768
+        },
+        {
+            "id": 0.7282866297349385,
+            "eccentricity": -0.354444144280001,
+            "avg_dist_between_largest": -0.2992281357734063,
+            "holes": -0.28802199784083127,
+            "spaces_cleared": -0.00444584066116574,
+            "points_earned": 2.815883220486349,
+            "fitness": -1.1623334585146947
+        },
+        {
+            "id": 0.7473201611714765,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.4965766833904761,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.815883220486349,
+            "fitness": -1
+        },
+        {
+            "id": 0.20052898752935644,
+            "eccentricity": -0.354444144280001,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.4953666571329085,
+            "spaces_cleared": -0.00444584066116574,
+            "points_earned": 2.815883220486349,
+            "fitness": -1
+        },
+        {
+            "id": 0.7253215683491769,
+            "eccentricity": -0.6318409656728059,
+            "avg_dist_between_largest": -0.5825984065699831,
+            "holes": -0.48530042712886,
+            "spaces_cleared": 0.05856498424879206,
+            "points_earned": 2.8123838922884503,
+            "fitness": -1
+        }
+    ],
+    "best_score": "14016",
+    "largest_tile": "1024",
+    "elapsed_time": "00:06:22:33"
+}
